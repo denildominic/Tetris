@@ -1,7 +1,3 @@
-
-
-
-
 # Tetris Game 
 
 <hr/> 
@@ -12,12 +8,12 @@
 
 #### Intellij
 
-![img.png](demo/maven-plugin-intellij.png)
-
+<img src="demo/maven-plugin-intellij.png" alt="IntelliJ Plugin" width="400"/>
 
 <hr/> 
 
 ## Screenshots
-![img.png](demo/screenshot.png)
+
+<img src="demo/screenshot.png" alt="Game Screenshot" width="400"/>
 
 <hr/> 
